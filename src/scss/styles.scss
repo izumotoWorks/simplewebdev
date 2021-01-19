@@ -1,0 +1,14 @@
+body {
+    h1 {
+        color:#ff0;
+        span {
+            font-size:3rem;
+            transform:rotate(45);
+            transition:.5s font-size linear;
+        }
+    }
+    h2 {
+        color:#00f;
+    }
+    
+}
